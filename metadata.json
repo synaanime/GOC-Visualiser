@@ -1,0 +1,5 @@
+{
+  "name": "GOC Visualiser",
+  "description": "An intelligent chemistry assistant that recognizes drawn structures and provides detailed explanations tailored to the Indian educational curriculum (Class 10 to Undergraduate).",
+  "requestFramePermissions": []
+}
